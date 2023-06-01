@@ -5,13 +5,21 @@
 <h2>1. 기획 의도</h2>
 <div dir="auto" style="display: flex;">
 <img width="1180" alt="스크린샷 2022-12-27 오전 12 09 34" src="https://github.com/dev-dennisjeong/happybox/assets/122762371/25a3fd01-ccdd-4ab2-88b2-8f8e35a0af38" style = "width: 45%; height : 45%">
+  <img width="1180" alt="스크린샷 2022-12-27 오전 12 09 34" src="https://github.com/dev-dennisjeong/happybox/assets/122762371/336b6d9e-6108-4d6c-8397-28009f521a2d" style = "width: 45%; height : 45%">
 </div>
 
 
 <h2>2. 기대 효과</h2>
+<div dir="auto" style="display: flex;">
+  <img width="1180" alt="스크린샷 2022-12-27 오전 12 09 34" src="https://github.com/dev-dennisjeong/happybox/assets/122762371/e11d2a18-a635-4d09-bb77-3cd40815f65f" style = "width: 45%; height : 45%">
+</div>
+
 
 
 <h2>3. 프로젝트 사용 툴</h2>
+<div dir="auto" style="display: flex;">
+  <img width="1180" alt="스크린샷 2022-12-27 오전 12 09 34" src="https://github.com/dev-dennisjeong/happybox/assets/122762371/1290455a-f222-4cf5-84ca-aa307271a216" style = "width: 45%; height : 45%">
+</div>
 
 
 <h2>4. 담당 업무</h2>
