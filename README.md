@@ -95,4 +95,4 @@ JPA는 엔티티부터 레포지토리, 서비스까지 하나하나 설계를 �
 
 
 <h2>ERD</h2>
-<img>(https://github.com/dev-kmg2331/happybox/assets/115636546/6564b7c5-66ec-4a32-ab38-c382e69892a6)</img>
+<img src="https://github.com/dev-kmg2331/happybox/assets/115636546/6564b7c5-66ec-4a32-ab38-c382e69892a6"</img>
